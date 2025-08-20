@@ -1,0 +1,59 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height:100vh;
+    background-color:#ffc107;
+}
+.start{
+    height:470px;
+    width:300px;
+    background-color: aliceblue;
+    border-left:1px solid black;
+    border-top:1px solid black;
+    border-right:7px solid black;
+   border-bottom:7px solid black ;
+   border-radius: 30px;
+}
+.second{
+    height:170px;
+    width:270px;
+    background-image: url("port.PNG");
+    background-size: cover;
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+    border-radius: 5px;
+}
+.third{
+    background-color:#ffc107;
+    color:black;
+    margin-left: 15px;
+    height:25px;
+    width:80px;
+    border-radius:5px;
+  
+    padding-left: 5px;
+}
+.fourth{
+    margin-left: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fifth{
+    margin-left: 15px;
+}
+.sixth{
+    margin-left: 15px;
+    color:gray;
+}
+.set{
+    margin-left: 15px;
+    display:flex;
+}
+
+.seventh img{
+    margin-top: 15px;
+    height:30px;
+    width:30px;
+
+}
